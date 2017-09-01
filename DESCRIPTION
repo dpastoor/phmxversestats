@@ -1,8 +1,8 @@
 Package: phmxversestats
 Type: Package
 Title: statistical packages relevant to pharmacometrics-style analysis. 
-Version: 0.0.3
-Date: 2017-01-20 
+Version: 0.0.1
+Date: 2017-08-31 
 Authors@R: c(
     person("Devin", "Pastoor",
     email = "devin.pastoor@gmail.com", role = c("aut", "cre")),
