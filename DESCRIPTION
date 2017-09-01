@@ -1,0 +1,19 @@
+Package: phmxversestats
+Type: Package
+Title: statistical packages relevant to pharmacometrics-style analysis. 
+Version: 0.0.3
+Date: 2017-01-20 
+Authors@R: c(
+    person("Devin", "Pastoor",
+    email = "devin.pastoor@gmail.com", role = c("aut", "cre")),
+    person("Vijay", "Ivaturi",
+    email = "vivaturi@rx.umaryland.edu", role = c("aut")),
+    )
+Description: Setup and qualify packages key to pharmacometrics
+Depends:
+    R (>= 3.2.0)
+Imports:
+    rms
+License: MIT + file LICENSE
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
